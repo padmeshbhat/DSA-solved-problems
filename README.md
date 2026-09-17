@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0039-combination-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0410-split-array-largest-sum) |
@@ -94,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
