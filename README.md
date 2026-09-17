@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
