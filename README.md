@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
