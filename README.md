@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
 | [0904-fruit-into-baskets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0077-combinations) |
@@ -115,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
