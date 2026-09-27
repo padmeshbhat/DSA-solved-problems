@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0410-split-array-largest-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -133,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
