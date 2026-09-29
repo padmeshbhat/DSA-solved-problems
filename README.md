@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
