@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
