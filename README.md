@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 ## Sliding Window
@@ -146,16 +148,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
