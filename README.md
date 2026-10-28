@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Union-Find
 |  |
 | ------- |
@@ -185,16 +189,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0841-keys-and-rooms) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## 0-1 BFS
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
