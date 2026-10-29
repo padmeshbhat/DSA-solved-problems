@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -190,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/padmeshbhat/DSA-solved-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## 0-1 BFS
 |  |
 | ------- |
